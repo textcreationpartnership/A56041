@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for setling the East-India trade·</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56041</idno>
+            <idno type="STC">Wing P3745</idno>
+            <idno type="STC">ESTC R212949</idno>
+            <idno type="EEBO-CITATION">99825517</idno>
+            <idno type="PROQUEST">99825517</idno>
+            <idno type="VID">29901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1896:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for setling the East-India trade·</title>
+               </titleStmt>
+               <extent>22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  East Indies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29901:1" rendition="simple:additions"/>
+            <p>PROPOSALS For Setling the Eaſt-India TRADE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+            <pb facs="tcp:29901:2" rendition="simple:additions"/>
+            <pb facs="tcp:29901:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:29901:3"/>
+            <pb n="3" facs="tcp:29901:3"/>
+            <head>PROPOSALS For SETLING the <hi>Eaſt-India</hi> Trade.</head>
+            <p>THE beſt Way to carry on that Trade, to the General Advantage of the Na<g ref="char:EOLhyphen"/>tion, is by an Eſtabliſhment of a Regu<g ref="char:EOLhyphen"/>lated Company, whereby all the Sub<g ref="char:EOLhyphen"/>jects of <hi>England</hi> may have Liberty to concern themſelves therein at all times, upon an equal Foot.</p>
+            <p>'Twill be a great Encouragement for Adventu<g ref="char:EOLhyphen"/>rers, to make new Diſcoveries, when every one may have the Management of his own Affairs, and reap the Benefit of his own Induſty; the Trade will be driven to its utmoſt Extent, more Ships employed, His Majeſty's Cuſtoms advan<g ref="char:EOLhyphen"/>ced, many of the Younger Sons of the Gentry provided for by beneficial Employments, greater Quantities of the Commodities of our Native Growth and Manufactures exported by many Buyers, which will conſequently raiſe their Va<g ref="char:EOLhyphen"/>lue here; and there will be larger Importations
+<pb n="4" facs="tcp:29901:4"/> from <hi>India,</hi> conſequently lower the Price of theſe Goods, by the many Sellers at our Markets, give us great Advantages to ſurmount our <hi>European</hi> Competitors in that Trade, and inable us to ſup<g ref="char:EOLhyphen"/>ply all theſe parts of the World with the Com<g ref="char:EOLhyphen"/>modities of thoſe Countreys much cheaper than they, eſpecially if the whole Subſidy may be re<g ref="char:EOLhyphen"/>paid upon all that ſhall be Ship'd off for Parts be<g ref="char:EOLhyphen"/>yond the Seas.</p>
+            <p>And Laſtly, By ſuch an Eſtabliſhment, Three great Evils which have been practiſed by the pre<g ref="char:EOLhyphen"/>ſent Joynt Stock, will be effectually remedied, <hi>viz.</hi>
+            </p>
+            <p>That of a Monopoly, wherein is but one Buyer and one Seller of all the Goods Imported and Exported to and from ſo great a part of the World.</p>
+            <p>The taking up vaſt Sums of Money at Intereſt upon a common Seal, which is a thing very un<g ref="char:EOLhyphen"/>equal and hazardous to the Subject, becauſe no particular Men's Eſtates are liable for Payment of the ſame. And,</p>
+            <p>That pernicious and infamous Trick of Stock-Jobbing, whereby ſeveral Families have been al<g ref="char:EOLhyphen"/>ready ruined, and had its Original from this Company.</p>
+            <p>Now for the Conſtitution of a Corporation to manage this Trade, and the Powers requiſite for ſuch a Company, we do further moſt humbly propoſe,</p>
+            <p>That a convenient Number of Perſons be ap<g ref="char:EOLhyphen"/>pointed and choſen annually, to direct the General
+<pb n="5" facs="tcp:29901:4"/> Affairs, who may be empowered to raiſe Money at a certain Rate <hi>per Cent.</hi> on all Merchandize, as may be agreed by a general Court of Adventu<g ref="char:EOLhyphen"/>rers, which ſhall be the Company's Stock, for maintaining an Ambaſſador at the Court of the <hi>Great Mogul,</hi> Conſuls at the principal Ports, ma<g ref="char:EOLhyphen"/>king ſuch Settlements as may upon due Conſi<g ref="char:EOLhyphen"/>deration be judged neceſſary, and for defraying all other Publick Charges.</p>
+            <p>That every Perſon at his Admittance into the Company, ſhall pay for his Freedom a ſmall Sum for the Uſes aforeſaid.</p>
+            <p>That the Adventurers at a General Court may make ſuch By-Laws, for the better regulating and carrying on the Trade, as ſhall be approved of by the Lord Keeper, the Lords Chief Juſtices, and the Lord Chief Baron for the time being, to be conſiſtent with the Laws of the Land.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:29901:5"/>
+            <pb n="7" facs="tcp:29901:5"/>
+            <head>
+               <hi>SOME REASONS AND CONSIDERATIONS</hi> Why the <hi>Eaſt-India</hi> Trade ſhould not be Setled in a Joynt Stock Excluſive.</head>
+            <p>THough at the firſt Conſtitution of a Joynt Stock it is made as diffuſive by the Subſcriptions of many in ſmall Summs, as the nature of the thing is capable of, yet by Purchaſe, or otherwiſe, it ſoon comes into few hands, and is attended with all the Evils that a deſtructive Monopoly brings with it,
+<pb n="8" facs="tcp:29901:6"/> without having the leaſt of thoſe ſpecious and pretended Advantages ſo much talked of; and the Aſſertion, that the <hi>Dutch</hi> out of choice have ſetled that Trade in a Joynt Stock, and that the <hi>Scotch</hi> have ſo ſetled it, becauſe it's the moſt advanta<g ref="char:EOLhyphen"/>gious, is ill grounded, being done by them for the Reaſons following.</p>
+            <p>The <hi>Dutch</hi> had the beginnings of their Trade to <hi>India</hi> in the Minority of their State, when they ſtrugled with the Mighty Power of <hi>Spain,</hi> in a long and bloody War; and the <hi>Spaniards</hi> and <hi>Portugueze</hi> (who were then under the ſame Mo<g ref="char:EOLhyphen"/>narch) being Maſters of the whole Trade of the <hi>Indies,</hi> the States, to weaken their Enemies, wiſely Encouraged their Merchants to ſend Ships into thoſe Seas, by giving them Commiſſions of War; and they effectually did it, by taking conſiderable Booties from them, and by aug<g ref="char:EOLhyphen"/>menting ſtill their Force, had great ſucceſs at Sea, and ſeized on ſome of their Fortifications. This brought the Merchants of their ſeveral Towns to joyn: where, by proſecuting their Trade, and their Privateering ſeveral Years, they became very conſiderable. Then the States United them further, that they might yet be more ſerviceable to annoy the Enemy, and brought the whole Trade and War into a Joynt Stock, and gave it mighty Priviledges; as of paying no Cuſtoms In, or Out, <hi>&amp;c.</hi> which they enjoy to this day.</p>
+            <pb n="9" facs="tcp:29901:6"/>
+            <p>This was the Reaſon ſo long ſince that indu<g ref="char:EOLhyphen"/>ced the States to this Settlement, by way of Hoſtility and depredation; and not that they thought it was beſt ſo to do for the general good of the Trade, or that it could not be as well managed by a Regulation, if their Cir<g ref="char:EOLhyphen"/>cumſtances had been otherwiſe.</p>
+            <p>The <hi>Eaſt-India</hi> Company of <hi>Holland</hi> being thus Eſtabliſhed, as it were by Conqueſt, and there<g ref="char:EOLhyphen"/>by incumbring themſelves with many Fortreſ<g ref="char:EOLhyphen"/>ſes in the South-Seas, and <hi>Ceylon,</hi> to maintain to themſelves their moſt advantagious Spice-Iſlands (without which the Company muſt fall) there ſeems a neceſſity upon them to drive that Trade in a Joynt Stock; for indeed their Eſta<g ref="char:EOLhyphen"/>bliſhment in <hi>India</hi> is another Common-Wealth, and their Charge to maintain their many Forts is ſo extravagant, being forced to ſend out twelve or fifteen hundred Men yearly; that though they bring home many very Rich Ships Annually, yet their Dividends are but ſmall, and thoſe ſuſpected by moſt, to be rather out of their Quick Stock, for they owe and continually take up vaſt Summs of Money at Intereſt, at home, as well as in <hi>India;</hi> wherein our Company hath imitated them, though they had no Spice-Iſlands, or profitable Colonies to help defray thoſe Charges, but only a plain Trade, which might as well, nay much better, be carried on without Forts. And as we cannot in the one, ſo we humbly conceive there is no Reaſon to
+<pb n="10" facs="tcp:29901:7"/> imitate them in the other; becauſe we have bet<g ref="char:EOLhyphen"/>ter ways, even by a Regulation, to out-do them. For, <hi>Anno</hi> 1653. to 1657. while our Trade to <hi>India</hi> lay open to all, the <hi>Holland Eaſt-India</hi> Company ſunk greatly in their Stock and Credit: we under-ſold them in all thoſe Commodities, and brought home Spice in ſpight of th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, procured at <hi>Macoſſar</hi> (a conſiderable Mart in the South-Seas, where we once had a Settlement) and elſewhere; which gave them ſuch apprehenſions of loſing their Trade, that to prevent it, they employed ſome Perſons to influence <hi>Oliver Cromwell</hi> to Eſtabliſh this pre<g ref="char:EOLhyphen"/>ſent Joynt-Stock, <hi>Anno.</hi> 1657. And they gave alſo Penſions in <hi>England,</hi> to forward the De<g ref="char:EOLhyphen"/>ſign.</p>
+            <p>And though they ſo much applaud the <hi>Dutch,</hi> calling them a Wiſe People, Maſters of the My<g ref="char:EOLhyphen"/>ſteries of Trade, <hi>&amp;c.</hi> they do not tell you that they have not the Act of Navigation upon them. So that the Condition of the People of <hi>England</hi> will be infinitely different from theirs: For if the <hi>Holland</hi> Company ſet their Goods too high, and uſe the People ill, though they cannot ſend Ships direct to <hi>India,</hi> they can ſend to <hi>England, France,</hi> and <hi>Spain,</hi> or any other Countrey, to buy all Goods except Spices. But if our Company be thus Eſtabliſhed, the People of <hi>England</hi> have no way to help themſelves. For the Act of Navigation Prohibits the Importation of all Goods from any Port or Place, except that of their Growth, Production, or uſual place of
+<pb n="11" facs="tcp:29901:7"/> their firſt Shipping. And then, if an Act paſſes that none is to Trade to thoſe parts, but by a Joynt Stock, then can no <hi>Eaſt-India</hi> Commodities be imported but by them; and then if thoſe Gentle<g ref="char:EOLhyphen"/>men will demand one hundred pounds for what coſt them but five pounds, the People muſt pay it, or be without; for we can buy none of thoſe goods in <hi>Holland,</hi> or any where elſe, becauſe thoſe two Laws have ſtaked us down, and wholly ſub<g ref="char:EOLhyphen"/>jected us to thoſe Men.</p>
+            <p>In all other Taxes we have this ſatisfaction, that we know the moſt can be demanded of us; but were this Company ſetled, we are left to their boundleſs will, to order them from time to time as they liſt.</p>
+            <p>The Company do indeed pretend that they can<g ref="char:EOLhyphen"/>not ſet their own Rates, and get what Prizes they pleaſe, becauſe their Goods are always ex<g ref="char:EOLhyphen"/>poſed to Sale by publick Candle, and put up low, where every Perſon is admitted to buy, and the Buyer ſets the price. Now that this Salvo is in<g ref="char:EOLhyphen"/>ſignificant, is known almoſt by every Trader's conſtant practice; for when a Ship, or any Goods are expoſed to Sale by Candle, the Sellers have always Friends in the place, who bid until it comes up to the Seller's price. So this Relief by a publick Sale will not help; beſides, the Com<g ref="char:EOLhyphen"/>pany can import ſo little, that the Peoples wants of the Commodities, will force them to give what price they pleaſe.</p>
+            <pb n="12" facs="tcp:29901:8"/>
+            <p>The <hi>Scotch</hi> choſe a Joynt-Stock before a Re<g ref="char:EOLhyphen"/>gulated Company, becauſe they never yet had any Trade to <hi>India,</hi> nor have their Merchants wherewithal to manage it, ſo muſt call in the aſſiſtance of other Nations, both for Money and Experience, which, God be thanked, is not our Caſe, being very well acquainted in thoſe parts of the World, having a large improved experi<g ref="char:EOLhyphen"/>ence in Trade, and Stock enough to carry it on to its full extent; ſuch a Genius to Traffick and Na<g ref="char:EOLhyphen"/>vigation, that wherever we have met with Com<g ref="char:EOLhyphen"/>petitors, and not been clogged with Joynt Stocks (whoſe Mannagers are Choſe, not becauſe of their knowledge of thoſe Trades, or for their In<g ref="char:EOLhyphen"/>tegrity, or any other Endowment, but becauſe they will promote the particular intereſt, and obſerve the directions of ſome Towring Men;) we have Out-Traded them all; witneſs, to <hi>Tur<g ref="char:EOLhyphen"/>key, Spain, Portugal,</hi> &amp;c. And in the <hi>Weſt-India</hi> Trade, which the <hi>Dutch</hi> mannage in a Joynt Stock, we have ſo much exceeded them, as no Hiſtory can parallel.</p>
+            <p>And ſince the preſent <hi>Eaſt-India</hi> Company do ſo much value their Forts, we ſay, That Fort St. <hi>George</hi> is Scituate where is neither Port nor Harbour, only an open Road, where no Ships can Ride upon breaking up of the <hi>Monſoons</hi> with any tolerable ſafety. Nor is this Road well Commanded by the Town, or Fort; nor can any Paſſengers or Goods be Landed or Shipt off in other than the Country Boats, which are ex<g ref="char:EOLhyphen"/>poſed to great hazard, and can be mannaged by none but the Natives, and carry but ſix or eight
+<pb n="13" facs="tcp:29901:8"/> Bales at a time; nor have they Water, Fuel, or Proviſions enough within themſelves to hold out a ten days Siege, being ſupplied with all from the Countrey.</p>
+            <p>It is the worſt ſeated for Trade, or to make in<g ref="char:EOLhyphen"/>veſtment of Goods, of any on the Coaſt of <hi>Cor<g ref="char:EOLhyphen"/>mandel;</hi> and is now much oppreſſed by a Cuſtom-Houſe the <hi>Mogull</hi> hath lately ſet up very near it, which exacts 5 <hi>l. per Cent.</hi> upon all Goods going in, and coming out of the place; ſo we believe the Company had no ſuch Penniworth of it, when they agreed to allow the former Company ſix Thouſand Pounds for it.</p>
+            <p>
+               <hi>Bombay,</hi> it's true, is more defenſible; there is a Port, and it may be relieved by Sea, yet it's a Place without Commerce, and the ſafety and conveniency of Ships Harbouring there would be more, were it in the <hi>Mogull</hi>'s hands; for he will not ſuffer any hoſtility in his Ports nor Roads, but protects all People that come thither to Trade, as may be inſtanced in the <hi>Conſtantinople Merchant,</hi> which was ſecured at <hi>Mechlapatam,</hi> an open Road, from five <hi>Dutch</hi> Men of War, 1665. and in the <hi>Succeſs</hi> (a private Ship) and the <hi>Benja<g ref="char:EOLhyphen"/>min,</hi> a Company's Ship, who were ſecured two years ſince from five <hi>French</hi> Men of War in the Ri<g ref="char:EOLhyphen"/>ver of <hi>Suratt.</hi> As alſo two <hi>French</hi> Ships, who by the laſt Advices were ſtill riding in the Bay of <hi>Ben<g ref="char:EOLhyphen"/>gal</hi> under the <hi>Mogul</hi>'s Protection, notwithſtanding the <hi>Dutch</hi> had ſix Men of War to take them, but durſt not offer them any violence, although there are no Forts or Fortifications in any of thoſe pla<g ref="char:EOLhyphen"/>ces. Beſides this place of <hi>Bombay</hi> is extreamly un<g ref="char:EOLhyphen"/>healthful.</p>
+            <pb n="14" facs="tcp:29901:9"/>
+            <p>But to inform you more truly, we here ſet down four Paragraphs out of Sir <hi>John Child,</hi> the Compa<g ref="char:EOLhyphen"/>nies General, and two more of their Councils Letter, Dated <hi>June</hi> the 7th, 1689. to the pre<g ref="char:EOLhyphen"/>ſent <hi>Eaſt-India</hi> Company, <hi>Viz.</hi>
+            </p>
+            <q>
+               <p>We wiſh this Iſland may Proſper and Flouriſh ſuitable to your Deſires, but we truly think it will never be otherwiſe than a Charge to you; and if the <hi>Mogull</hi> takes the Countrey round about us, it will be next door to an impoſſibility to maintain the Fort againſt him.</p>
+               <p>The Shopkeepers at beſt are but poor needy Fel<g ref="char:EOLhyphen"/>lows, and what they ſell is but juſt enough to ſupply their neceſſities from hand to mouth; however, in compliance to your Order, ſhall ſee and raiſe a moderate Duty on the Shops, as may be moſt for your intereſt.</p>
+               <p>We ſhall be glad to raiſe your Revenues ſuitable to your Deſires, and wiſh the Iſland was in ſuch a Condition as to be able to bear ſuch a Charge as your Honours propoſe; We fear that will never be in our days, and find no reaſon to hope that ever it will be.</p>
+               <p>If ever there be a <hi>Dutch</hi> War, believe it from us, that at beſt we ſhall be but in a bad Con<g ref="char:EOLhyphen"/>dition in theſe parts of the World, they being ſo very numerous: But for your Iſland of <hi>Bombay,</hi> we do verily believe they will ne<g ref="char:EOLhyphen"/>ver offer to meddle with it; for we cannot conceive what ſhould induce them to ſuch an <g ref="char:V">Ʋ</g>ndertaking.</p>
+            </q>
+            <pb n="15" facs="tcp:29901:9"/>
+            <p>And we preſume to add, nor no body elſe, except it were to make a Preſent of it to the Great <hi>Mogull;</hi> for the <hi>Dutch</hi> find Forts charge<g ref="char:EOLhyphen"/>able things, where they ſupport the Trade, and will not be ſo mad to load themſelves with them, where no Trade is to be expected. Fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they have not long ſince abandoned <hi>Policat,</hi> a better Fort of their own in the Bay. But ſhould they be ſo, it's not doubted the ſame Fate will attend that, that did <hi>Gambo,</hi> a Fort of our Royal <hi>Affrican Companies,</hi> mounted with 74 pieces of Cannon, which Surrendred to Monſieur <hi>de Genes</hi> with three <hi>French</hi> Friggots, upon his firſt Summons in <hi>July</hi> laſt.</p>
+            <p>All the good theſe two main Forts of St. <hi>George,</hi> and <hi>Bombay,</hi> have done the Company, is, they have rais'd them in Opinion and Greatneſs of themſelves; for they have, without any regard to the Honour of the Nation (which they only pretend unto) expoſed it the moſt ever Subjects did; for after their Factors had ran above Three Hundred Thouſand Pounds in Debt at <hi>Suratt,</hi> their Preſident made his eſcape from thence by particular Order of the Company, in theſe words, <hi>viz. That he ſhould leave them, but leave them as the</hi> Iſraelites <hi>did the</hi> Egyptians.</p>
+            <p>They took, and contrary to the Faith of Na<g ref="char:EOLhyphen"/>tions, plundered thoſe very Ships they had gi<g ref="char:EOLhyphen"/>ven their Paſſes to, and ſent home ſeveral of the Goods, which they ſold and divided. After
+<pb n="16" facs="tcp:29901:10"/> they had ſo taken the Ships, they made a for<g ref="char:EOLhyphen"/>mal Declaration of War, and proceeded therein, until by woeful experience they found the in<g ref="char:EOLhyphen"/>conſiſtency of War with Trade, and what a Condition they were in; as doth appear by the following Paragraphs of the aforeſaid Let<g ref="char:EOLhyphen"/>ter, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>We cannot ſee any hope of Trade, without making Peace with the <hi>Mogull;</hi> and we muſt then pay our old Debts; and after that is done, we ſhall not be over-ſtock'd with Money.</p>
+               <p>Your Honours may be aſſured, that the <hi>Mogull</hi> is a Potent Prince, and he doth not at all value your Trade; his Subjects are not ſo poor as you are pleaſed to think; we heartily wiſh the Wars with him and his Subjects were at an end.</p>
+               <p>Your Honours may firmly believe that we are willing enough not to part with any thing that we have taken, more than what we ſee of abſo<g ref="char:EOLhyphen"/>lute neceſſity for your intereſt.</p>
+               <p>Your Honours have neither <hi>Mergeen</hi> nor <hi>Chat<g ref="char:EOLhyphen"/>tegann,</hi> and we fear will not have ſo Honour<g ref="char:EOLhyphen"/>able a Peace with the <hi>Mogull</hi> as is expected; but we ſhall do what we can towards it, as becomes us.</p>
+            </q>
+            <p>And accordingly they did, and ſent up Mr. <hi>George Welden</hi> an <hi>Engliſhman,</hi> and <hi>Abraham Na<g ref="char:EOLhyphen"/>varra,</hi>
+               <pb n="17" facs="tcp:29901:10"/> a <hi>Jew</hi> (which latter when they kept their High Court of Admiralty in <hi>India,</hi> was ſtyled His Majeſty's Attorney General) to the Court of the <hi>Great Mogul</hi> to ſue for Peace, where, after they had been ſome time, and made their way by Preſents, they were admitted to the <hi>Mogul</hi>'s Pre<g ref="char:EOLhyphen"/>ſence, but it was in the Poſture of Malefactors, obtain'd his Pardon and Allowance of Trade, in a Phirmaund granted them in the Words follow<g ref="char:EOLhyphen"/>ing:
+<q>
+                  <p>All the <hi>Engliſh</hi> having made an humble ſubmiſſive Petition, That the ill Crimes they have done may be pardoned; and requeſted a Noble Phir<g ref="char:EOLhyphen"/>maund, to make their being forgiven manifeſt; and ſent their Vakeels to the Heavenly Palace, the moſt Illuſtrious in the World, to get the Royal Favour; and <hi>Ettimand Chawn,</hi> the Governour of <hi>Suratt</hi>'s Petition to the famous Court equal to the Skies, being arrived, That they would preſent the Great King with a Fine of <hi>150000</hi> Rupees to his Noble Treaſury reſembling the Sun, and would reſtore the Mer<g ref="char:EOLhyphen"/>chants Goods they took away to the right Owners of them, and would walk by the ancient Cuſtoms of the Port, and behave themſelves for the fu<g ref="char:EOLhyphen"/>ture no more in ſuch a ſhameful manner.</p>
+                  <p>Wherefore His Majeſty, according to his daily Fa<g ref="char:EOLhyphen"/>vour to all the People of the World, hath pardoned their Faults, mercifully forgiven them, and out of his Princely Compaſſion agrees, That the Pre<g ref="char:EOLhyphen"/>ſent be put into the Treaſury of the Port, the
+<pb n="18" facs="tcp:29901:11"/> Merchants Goods be returned, the Town flouriſh, they follow their Trade as in former Times; and that Mr. <hi>Child,</hi> who did the Diſgrace, be turned out and expelled.</p>
+               </q>
+            </p>
+            <p>Having thus laid before you the Honour this Company hath done the Nation, in proſecuting the <hi>Eaſt-India</hi> Trade; and ſhewed how uſeful their Forts are to preſerve that Trade, eſpecially in time of War with the <hi>Dutch;</hi> we proceed to the Priviledges which the Company do pretend to have obtained in <hi>India</hi> with vaſt Expence and Charge: And do aver,</p>
+            <p n="1">I. That they are all owing to the Embaſſie of King <hi>James</hi> the Firſt, by Sir <hi>Tho. Row, Anno</hi> 1615. of which the <hi>Mogul</hi> certified the King in theſe Words, <hi>viz.</hi>
+            </p>
+            <q>I have ſent forth my Phirmaunds through all my Countries to this effect, That if any <hi>Engliſh</hi> Ships or Merchants ſhall arrive in any of my Ports, my People ſhall permit and ſuffer them to do what they pleaſe freely in their Merchandizing Caſes, aiding and aſſiſting in all occaſions of In<g ref="char:EOLhyphen"/>juries that ſhall be offered them, that the leaſt Cauſe of Diſcourteſie be not done unto them, that they may be as free, or freer, than my own Peo<g ref="char:EOLhyphen"/>ple.</q>
+            <p n="2">II. Thoſe in the Bay were the Effect of a re<g ref="char:EOLhyphen"/>markable Cure one Mr. <hi>Bawden,</hi> an <hi>Engliſh</hi> Sur<g ref="char:EOLhyphen"/>geon, wrought about Forty Years ſince upon a
+<pb n="19" facs="tcp:29901:11"/> Perſon of great Quality, for which he refuſed to receive any other Recompence, than a General Grant, That the <hi>Engliſh</hi> Nation ſhould have a free and unmoleſted Trade in thoſe Parts; which was given, and hath been continued until this late unaccountable War, but by the Peace reſtored in the Words following, in a Phirmaund from the <hi>Great Mogul.</hi>
+            </p>
+            <q>Know this, that the good Fortune of the <hi>Engliſh</hi> hath directed them the right way to end their Faults; they are ſorry and aſhamed for what they have done, therefore have ſent their Vakeels to our Noble Court, with a Petition for a Gracious Phirmaund, to pardon their Faults, which the King, out of his great Favour and Mercy, al<g ref="char:EOLhyphen"/>ways ready to pardon, doth freely forgive them: Therefore his clear and unſpotted Order is ſuch, which you are to obſerve as you do his that you pray unto, That ſo ſoon as this gracious Phir<g ref="char:EOLhyphen"/>maund reaches your Hands you ſuffer no body in your Juriſdiction to moleſt, hurt, or hinder the <hi>Engliſh</hi> Nation in their Buſineſs, but ſuffer them to carry it on in the ſame manner as formerly: This underſtand and act accordingly.</q>
+            <p>By all which it is moſt evident, That the Com<g ref="char:EOLhyphen"/>pany have not any Priviledge excluſive of the reſt of the Nation.</p>
+            <p>And this further manifeſtly appears in the two free Trading Ships, the <hi>Seymore</hi> and the <hi>Henry</hi> this laſt Year; however the ſaid Company did what they could to oppoſe them: For the <hi>Seymore,</hi> in which were Captain <hi>Pitt</hi> and Mr. <hi>Katchpole,</hi> arri<g ref="char:EOLhyphen"/>ving
+<pb n="20" facs="tcp:29901:12"/> in the Bay, were accuſed as Pirates by the ſaid Company's Factors, and as ſuch brought be<g ref="char:EOLhyphen"/>fore the Government; and his Excellency Sir <hi>John Goldsburrow,</hi> the Company's then Commiſſary General over all <hi>India,</hi> having heard that the <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> (another Private Ship, in whom was Mr. <hi>White</hi>) was gone to <hi>Suratt,</hi> did write to the Preſident there, acquainting him, <q>
+                  <hi>That an</hi> Engliſh <hi>Pirate, one Captain</hi> Pitt, <hi>was come into the Bay, on pretence of Trade, was ſeized, and had upon Examination con<g ref="char:EOLhyphen"/>feſſed, that there was another gone for</hi> Suratt, viz. <hi>Mr.</hi> White, <hi>as great a Pirate as himſelf; requiring the Preſident to acquaint the Governour therewith, that he might be ſeized alſo, to prevent all further Da<g ref="char:EOLhyphen"/>mage to the</hi> Mogul'<hi>s Subjects.</hi>
+               </q>
+            </p>
+            <p>All this notwithſtanding, and that theſe People are extreamly exaſperated againſt Pirates, having ſuffered ſo much by Piracy, they could not by this Artifice be drawn from their accuſtomed Ju<g ref="char:EOLhyphen"/>ſtice: But having entered into the matter, though the Company's Factors bribed high at <hi>Suratt</hi> to prevent it, that they might take it <hi>pro Confeſſo;</hi> they, upon the Merit of the Cauſe, admitted both theſe Ships to Trade, and to return to <hi>England</hi> with the Produce of their Cargo in the proper Commodities of thoſe Places, which were as good and as cheap as ever were purchaſed by the Com<g ref="char:EOLhyphen"/>pany; nor did they pay any more Cuſtoms, Du<g ref="char:EOLhyphen"/>ties or Acknowledgments, than the preſent Com<g ref="char:EOLhyphen"/>pany always did, and now do.</p>
+            <pb n="21" facs="tcp:29901:12"/>
+            <p>And this preſent Company are ſo far from ha<g ref="char:EOLhyphen"/>ving enlarged the Trade to <hi>India,</hi> that they had be<g ref="char:EOLhyphen"/>fore this late Charter, and Subſcriptions thereunto, reduced their Trade to ſo low an Ebb, that the Farming it out to <hi>Jews, Armenians,</hi> and others, was the chiefeſt of their Buſineſs: For their Drift was not to enrich the Nation, but themſelves: And their preſent Circumſtances are ſuch, that without an Act of Parliament excluſive to all others (upon which not only they, but the mean<g ref="char:EOLhyphen"/>eſt of Men may raiſe Money to carry on the Trade) they cannot upon their own Bottom ſend out the number of Ships they have declared to diſpatch thither this Year, although above the vaſt Sums they owe at Intereſt, they have advan<g ref="char:EOLhyphen"/>ced 25 <hi>per Cent.</hi> upon their Stock, in taking 80 <hi>l.</hi> paid in Guineas at 30 <hi>s. per</hi> Piece for 100 <hi>l.</hi> and give Bills under their Common Seal for paying 112 <hi>l.</hi> at the end of two Years; which is 20 <hi>per Cent. per Annum</hi> for the Money received. And to avoid the Law againſt Extortion, the Condition is, If Twelve of the Ships named of thoſe they have abroad, and now going out, do miſcarry, then their Bond is void; but if any one of them arrives, it is in full Force and Virtue.</p>
+            <p>The Merchants of <hi>England</hi> are an induſtrious People, and Lovers of Trade; they do not upon ſmall, no, not upon great Diſcouragements give it over, but do rather endeavour to recompence themſelves by the ſame Voyages: Otherwiſe, the <hi>Newfoundland,</hi> the <hi>Malaga,</hi> the <hi>Virginia,</hi> and all
+<pb n="22" facs="tcp:29901:13"/> the <hi>Weſt-India</hi> Trades, with many others now cloſely purſued, had been left off long ſince. Where there is any hope of Vending our home-Commodities, they are ready to carry them even to unknown, and but in part diſcovered Places, far beyond a joint Stock, who cannot, being once ſo conſtituted (for it would be againſt their Oaths ſhould they) prefer the Publick Good in Preju<g ref="char:EOLhyphen"/>dice of their Joint Stock, which ſuch Companies were never known guilty of, always Exporting and Importing no more of any Merchandize, than what will yield them their ſetled Profits; and employing few others than Men of broken For<g ref="char:EOLhyphen"/>tunes, or Youths at very mean Salaries.</p>
+            <p>Whereas particular Merchants in a Regulated Company (who cannot make Combinations) will carry out and bring home much greater Quantities of all Commodities, imploy many of the Younger Sons of the Gentry, who may ſettle Houſes, raiſe Eſtates there, without being at the Pleaſure of a few Men; add greatly to our Navigation, Encreaſe the Cuſtoms, and will in every Point be of Infinite Advantage to the Publick, as well as themſelves, whoſe Right and Property it is, that the Commerce and Traffick by Sea be as unlimitted and free as the Inland Trade.</p>
+            <p>It is therefore humbly hoped, That a Regula<g ref="char:EOLhyphen"/>ted Company for <hi>India</hi> will be erected, whereby the Right of the Subject may be preſerved, and the Trade carried on, to the Intereſt and Honour of the Nation.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29901:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
